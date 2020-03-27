@@ -1,0 +1,4 @@
+display: flex; /*弹性盒模型*/ /*弹性盒模型的子元素都要沿着主轴排列*/
+            justify-content: space-between; /*弹性盒模型的字元素在父元素的主轴上如何排列*/
+            /*align-items:center;*/ /*文字p标签上下居中*/
+            /*设置弹性盒模子元素在父元素中按照x轴显示*/
